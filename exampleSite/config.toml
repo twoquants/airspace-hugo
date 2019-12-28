@@ -1,7 +1,7 @@
 baseURL = "https://twoquants-test.netlify.com/twoquants-test/"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
-disableLanguages = []
+disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "4"
 summaryLength = "30"
