@@ -1,4 +1,4 @@
-baseURL = "https://twoquants-test.com"
+baseURL = "twoquants-test"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 disableLanguages = []
