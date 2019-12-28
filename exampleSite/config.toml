@@ -26,53 +26,35 @@ URL = "about"
 name = "About"
 weight = 1
 [[menu.footer]]
-URL = "project"
-name = "Project"
-weight = 2
-[[menu.footer]]
-URL = "service"
-name = "Service"
-weight = 3
-[[menu.footer]]
-URL = "pricing"
-name = "Pricing"
-weight = 4
+URL = "blog"
+name = "Blog"
+weight = "3"
 [[menu.footer]]
 URL = "faq"
 name = "FAQ"
-weight = 5
+weight = "3"
 [[menu.footer]]
 URL = "contact"
 name = "Contact"
-weight = 6
+weight = "4"
 [[menu.main]]
 URL = "about"
 name = "About"
 weight = 1
 [[menu.main]]
-URL = "project"
-name = "Project"
-weight = 2
-[[menu.main]]
-URL = "service"
-name = "Service"
-weight = 3
-[[menu.main]]
-hasChildren = true
-name = "Pages"
-weight = 4
+URL = "blog"
+name = "Blog"
+parent = "Pages"
+weight = "2"
 [[menu.main]]
 URL = "faq"
 name = "FAQ"
 parent = "Pages"
-[[menu.main]]
-URL = "pricing"
-name = "Pricing"
-parent = "Pages"
+weight = "3"
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 5
+weight = "4"
 [params]
 author = "Themefisher"
 contact_form_action = "#"
@@ -80,7 +62,7 @@ description = "This is meta description"
 email = "demo@email.com"
 google_analitycs_id = "Your ID"
 home = "Home"
-location = "North Main Street,Brooklyn Australia"
+location = "Munich, Germany"
 logo = "images/logo.png"
 mobile = "0124857985320"
 [params.gmap]
