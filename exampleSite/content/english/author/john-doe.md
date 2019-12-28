@@ -1,6 +1,6 @@
 ---
 title: Moritz Heiden
-email: email2@example.org
+email: "#"
 bg_image: images/featue-bg.jpg
 social:
 - icon: ion-social-twitter-outline
