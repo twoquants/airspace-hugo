@@ -63,7 +63,7 @@ email = "twoquants@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
 location = "Munich, Germany"
-logo = "images/icon-32.png"
+logo = "images/icon-round.png"
 mobile = "#"
 [params.gmap]
 enable = false
