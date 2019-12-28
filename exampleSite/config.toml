@@ -56,15 +56,15 @@ URL = "contact"
 name = "Contact"
 weight = "4"
 [params]
-author = "Themefisher"
+author = "twoquants"
 contact_form_action = "#"
 description = "This is meta description"
-email = "demo@email.com"
+email = "twoquants@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
 location = "Munich, Germany"
 logo = "images/icon-192.png"
-mobile = "0124857985320"
+mobile = "#"
 [params.gmap]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
@@ -101,20 +101,5 @@ preloader = ""
 [params.search]
 enable = true
 [[params.social]]
-icon = "ion-social-googleplus-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-linkedin-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-pinterest-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-dribbble-outline"
-link = "#"
-[[params.social]]
 icon = "ion-social-twitter-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-facebook-outline"
-link = "#"
+link = "https://twitter.com/twoquants"
