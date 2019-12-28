@@ -2,12 +2,12 @@
 banner:
   enable : true
   bg_image : "images/slider-bg.jpg"
-  title : "A Digital Marketing <br/> & Design Agency"
-  content : "We love the Web and the work we do.We work closely with our clients to deliver  the best possible solutions for their needs"
+  title : "Two Quants <br/> walk into a bar"
+  content : "A blog about quantitative investing, systematic strategies and data driven research."
   button:
     enable : true
-    label : "Discover Our Project"
-    link : "project"
+    label : "Discover Our Blog"
+    link : "blog"
 
 ############################# About #################################
 about:
