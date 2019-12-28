@@ -1,4 +1,4 @@
-baseURL = "twoquants-test"
+baseURL = "https://twoquants-test.netlify.com/"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 disableLanguages = []
