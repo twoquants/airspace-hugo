@@ -12,7 +12,7 @@ about:
           dolor sit amet, consectetur adipisicing elit. Provident, neque!"
 
   button:
-    enable : true
+    enable : false
     label : "Download Company Profile"
     link : "#"
 
