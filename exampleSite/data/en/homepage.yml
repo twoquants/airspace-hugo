@@ -23,7 +23,7 @@ about:
           dolor sit amet, consectetur adipisicing elit. Provident, neque!"
 
   button:
-    enable : false
+    enable : true
     label : "Download Company Profile"
     link : "#"
 
@@ -48,19 +48,33 @@ portfolio:
     label: "Get To Know Us"
     link: "about"
 
+########################## featured service ############################
+featured_service:
+  enable : true
+  service_item:
+    # featured service item loop
+    - name : "Interface Design"
+      icon : "ion-erlenmeyer-flask"
+      color : "primary"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
 
+    # featured service item loop
+    - name : "Product Branding"
+      icon : "ion-leaf"
+      color : "primary-dark"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
 
+    # featured service item loop
+    - name : "Game Development"
+      icon : "ion-lightbulb"
+      color : "primary-darker"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
 
-############################# Service ############################
-service:
-  enable : false
-  # service content comes from "data/*/service.yml" file
 
 
 ############################ call to action ###########################
 cta:
   enable : true
-  bg_image : "images/call-to-action-bg.jpg"
   title : "Want a seat at the table?"
   content : "Sign up for our waiting list and stay tuned for great things coming your way. We drop you an e-mail once we reached go-live."
   button:
