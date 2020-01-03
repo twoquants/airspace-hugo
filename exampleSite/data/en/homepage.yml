@@ -12,7 +12,7 @@ banner:
 ############################# About #################################
 about:
   enable : true
-  bg_image : "images/blog/whiskey.jpeg"
+  image : "images/blog/whiskey_small.jpeg"
   title : "About Us"
   description : "A blog about quantitative investing, systematic strategies and data driven research."
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
