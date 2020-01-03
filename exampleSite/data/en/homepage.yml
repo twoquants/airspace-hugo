@@ -48,10 +48,27 @@ portfolio:
     label: "Get To Know Us"
     link: "about"
 
-############################# Service ############################
-service:
+########################## featured service ############################
+featured_service:
   enable : true
-  # service content comes from "data/*/service.yml" file
+  service_item:
+    # featured service item loop
+    - name : "Interface Design"
+      icon : "ion-erlenmeyer-flask"
+      color : "primary"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
+
+    # featured service item loop
+    - name : "Product Branding"
+      icon : "ion-leaf"
+      color : "primary-dark"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
+
+    # featured service item loop
+    - name : "Game Development"
+      icon : "ion-lightbulb"
+      color : "primary-darker"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
 
 
 ############################ call to action ###########################
