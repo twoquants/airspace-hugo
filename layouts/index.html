@@ -38,13 +38,12 @@
             <h2>{{ .title | markdownify }}</h2>
             <p>{{ .description | markdownify }}</p>
           </div>
-          <p>{{ .content | markdownify }}
+          <p>{{ .content | markdownify }}</p>
             {{ if .button.enable }}
             {{ with .button }}
             <a href="{{ .link | relURL }}" class="btn btn-small mt-20">{{ .label }}</a>
             {{ end }}
             {{ end }}
-          </p>
         </div>
       </div>
       <div class="col-md-5 col-sm-12">
