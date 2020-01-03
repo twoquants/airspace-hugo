@@ -86,3 +86,5 @@ enable = true
 [[params.social]]
 icon = "ion-social-twitter-outline"
 link = "https://twitter.com/twoquants"
+[markup.goldmark.renderer]
+unsafe= true
