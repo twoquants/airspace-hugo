@@ -3,7 +3,7 @@ banner:
   enable : true
   bg_image : "images/slider-bg.jpg"
   title : "Two Quants <br/> walk into a bar"
-  content : "A blog about quantitative investing, systematic strategies and data driven research."
+  content : "Quantitative investing. Shaken, not stirred."
   button:
     enable : true
     label : "Discover Our Blog"
