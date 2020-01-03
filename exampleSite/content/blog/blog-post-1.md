@@ -7,7 +7,7 @@ bg_image: "images/featue-bg.jpg"
 categories: ["Company News"]
 tags: ["Advice","Technology"]
 description: "this is meta description"
-draft: false
+draft: true
 type: "post"
 ---
 

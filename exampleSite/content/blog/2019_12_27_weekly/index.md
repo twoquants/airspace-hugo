@@ -6,18 +6,13 @@ tags:
 - research
 - newsletter
 - weekly
-twitterImg: "/blog/pic_bar.jpg"
+bg_image: "images/blog/pic_bar2.jpg"
+twitterImg: "/images/blog/pic_bar2.jpg"
 summary: The illiquidity discount. The unfairness of alphabetism and why buying physicial
   gold in Germany is getting harder.
-header:
-  image: "/blog/pic_bar.png"
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: true
 authors:
-- mh
-featured: true
+- Moritz Heiden
+draft: false
 
 ---
 Our weekly review of things that caught our attention. Some things new, some things aged. Just like a good wine. From easily digestible to the hard stuff.

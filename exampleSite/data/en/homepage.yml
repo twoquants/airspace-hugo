@@ -85,7 +85,7 @@ funfacts:
     # funfacts item loop
     - icon : "ion-erlenmeyer-flask" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Research Motivation"
-      count : "100%"
+      count : "100"
 
   testimonial_slider:
     # testimonial item loop

@@ -6,18 +6,13 @@ tags:
 - research
 - newsletter
 - weekly
-twitterImg: "/img/blog/pic_bar2.jpg"
+bg_image: "images/blog/pic_bar2.jpg"
+twitterImg: "/images/blog/pic_bar2.jpg"
 summary: Reflections on 2019 made simple. Why Trend-following hasn't performed as
   expected and a topological data analysis recommendation.
-header:
-  caption: ''
-  image: "/img/blog/pic_bar2.jpg"
 authors:
-- mh
-featured: true
-image:
-  image: "/img/blog/pic_bar2.jpg"
-  placement: "3"
+- Moritz Heiden
+draft: false
 
 ---
 Our weekly review of things that caught our attention. Some things new, some things aged. Just like a good wine. From easily digestible to the hard stuff. 
