@@ -9,24 +9,25 @@ banner:
     label : "Discover Our Blog"
     link : "blog"
 
-############################## About #################################
+######################### About ###############################
 about:
-  enable : false
-  image : "images/company/about.jpg"
-  title : "We strive to be the best and <br> make awesome work."
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam
-          iure officiis facere vitae itaque.
+  enable : true
+  image : "images/blog/whiskey_small.jpeg"
+  title : "About Us"
+  description : "A blog about quantitative investing, systematic strategies and data driven research."
+  content : "
+  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
 
 
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est
-          velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum
-          dolor sit amet, consectetur adipisicing elit. Provident, neque!"
+  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
 
+
+  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  "
   button:
-    enable : false
-    label : "Download Company Profile"
-    link : "#"
-
+    enable: true
+    label: "Get To Know Us"
+    link: "about"
 
 ########################## featured service ############################
 featured_service:
