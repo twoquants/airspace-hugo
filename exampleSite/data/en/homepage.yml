@@ -10,21 +10,22 @@ banner:
     link : "blog"
 
 ############################## About #################################
-#about:
-#  enable : true
-#  image : "images/blog/whiskey_small.jpeg"
-#  title : "About Us"
-#  description : "A blog about quantitative investing, systematic strategies and data driven research."
-#  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-#            dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-#            ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-#            nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-#            anim id.
-#            "
-#  button:
-#    enable: true
-#    label: "Get To Know Us"
-#    link: "about"
+about:
+  enable : true
+  image : "images/company/about.jpg"
+  title : "We strive to be the best and <br> make awesome work."
+  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam
+          iure officiis facere vitae itaque.
+
+
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est
+          velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum
+          dolor sit amet, consectetur adipisicing elit. Provident, neque!"
+
+  button:
+    enable : false
+    label : "Download Company Profile"
+    link : "#"
 
 
 ######################### Portfolio ###############################
