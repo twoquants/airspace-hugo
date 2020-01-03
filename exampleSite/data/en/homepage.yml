@@ -53,11 +53,11 @@ service:
 cta:
   enable : true
   bg_image : "images/call-to-action-bg.jpg"
-  title : "We design delightful digital experiences."
-  content : "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+  title : "Want a seat at the table?"
+  content : "Sign up for our waiting list and stay tuned for great things coming your way. We drop you an e-mail once we reached go-live."
   button:
     enable : true
-    label : "Tell Us Your Story"
+    label : "Count me in"
     link : "contact"
 
 ############################# Funfacts ###############################
@@ -87,24 +87,24 @@ funfacts:
       name : "Combined Projects"
       count : "200"
 
-  testimonial_slider:
-    # testimonial item loop
-    - name : "Raymond Roy"
-      image : "images/clients/avater-1.jpg"
-      designation : "CEO-Themefisher"
-      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
-                ideas we feel that our site has unique elements that make us stand out from the crowd."
-                
-    # testimonial item loop
-    - name : "Randi Renin"
-      image : "images/clients/avater-1.jpg"
-      designation : "CEO-Themefisher"
-      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
-                ideas we feel that our site has unique elements that make us stand out from the crowd."
-                
-    # testimonial item loop
-    - name : "Rose Rio"
-      image : "images/clients/avater-3.jpg"
-      designation : "CEO-Themefisher"
-      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
-                ideas we feel that our site has unique elements that make us stand out from the crowd."
+#  testimonial_slider:
+#    # testimonial item loop
+#    - name : "Raymond Roy"
+#      image : "images/clients/avater-1.jpg"
+#      designation : "CEO-Themefisher"
+#      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
+#                ideas we feel that our site has unique elements that make us stand out from the crowd."
+#
+#    # testimonial item loop
+#    - name : "Randi Renin"
+#      image : "images/clients/avater-1.jpg"
+#      designation : "CEO-Themefisher"
+#      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
+#                ideas we feel that our site has unique elements that make us stand out from the crowd."
+#
+#    # testimonial item loop
+#    - name : "Rose Rio"
+#      image : "images/clients/avater-3.jpg"
+#      designation : "CEO-Themefisher"
+#      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
+#                ideas we feel that our site has unique elements that make us stand out from the crowd."

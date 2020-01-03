@@ -1,0 +1,70 @@
+---
+title: 2019-12-27 - This weeks menu
+date: 2019-12-27T13:00:27.000+00:00
+lastmod: '2019-12-27T13:00:27.000+00:00'
+tags:
+- research
+- newsletter
+- weekly
+twitterImg: "/blog/pic_bar.jpg"
+summary: The illiquidity discount. The unfairness of alphabetism and why buying physicial
+  gold in Germany is getting harder.
+header:
+  image: "/blog/pic_bar.png"
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: true
+authors:
+- mh
+featured: true
+
+---
+Our weekly review of things that caught our attention. Some things new, some things aged. Just like a good wine. From easily digestible to the hard stuff.
+
+## Apéritif
+
+Discussed on Twitter and the [Systematic Investor Podcast](https://www.toptradersunplugged.com/systematic-investor-series-67/): [The illiquidity discount](https://www.aqr.com/Insights/Perspectives/The-Illiquidity-Discount) by Cliff Asness. The main question of the article and the ensuing discussion concerns the question if investors are actually willing to pay a higher price and accept a lower expected return for very illiquid assets.
+
+I strongly suggest listening in on the podcast to follow the whole discussion.
+
+## Classic
+
+This older Tweet of [Jerry Parker ](https://twitter.com/rjparkerjr09)caught my attention:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;The RenTech team views the narratives that most investors latch onto to explain price moves as quaint, even dangerous, because they breed misplaced confidence that an investment can be adequately understood and its futures divined.&quot; <a href="https://t.co/6xSJa4pwtB">https://t.co/6xSJa4pwtB</a></p>&mdash; Jerry Parker (@rjparkerjr09) <a href="https://twitter.com/rjparkerjr09/status/1194382884905345025?ref_src=twsrc%5Etfw">November 12, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+It reminded me of a [2013 paper by Heiko Jacobs and Alexander Hillert on the alphabetic bias of investors](https://www.researchgate.net/publication/272305171_The_Power_of_Primacy_Alphabetic_Bias_Investor_Recognition_and_Market_Outcomes). As "The Economist" very well puts it:
+
+> "Over the past century, all kinds of unfairness and
+> discrimination have been denounced or made illegal. But one insidious form continues to
+> thrive: alphabetism. This \[...\] refers to discrimination against those whose surnames begin
+> with a letter in the lower half of the alphabet."
+>
+> _The Economist., 2001, As easy as ZYX, Vol. 360, No. 8237, p. 13._
+
+The article is concerned with our human tendency not to scroll much further than the first few pages in any document. For academia, the bias presents itself in the likelihood of
+
+* being cited: "articles placed first, second, and third in an issue of
+  top finance and economic journals enjoy all else equal about 50%, 26%, and 17% more
+  future citations than articles published near the back of an issue"
+* being invited for review: "in the case of a well-established medical imaging journal, reviewers
+  whose last name started with an A received almost twice as many review invitations as
+  their colleagues towards the end of the alphabet"
+
+However, the authors of the article are more concerned with the general unfairness of alphabetic ordering in economics, politics and mainly financial markets. Based on CRSP mutual fund data and fund flows for NYSE/AMEX and NADAQ stocks the authors find "that a higher alphabetic ranking provides stocks with higher share turnover,
+investors with lower transaction costs, and firms among others with broader ownership". Furthermore, the effects "are most pronounced for stocks disproportionately traded by individual or otherwise less sophisticated investors".
+
+**Long story short:** Instead of changing from names to numbers, shuffling might be a better solution.
+
+## Digestif
+
+We finish this week with a quick reminder by [Dan Popescu](https://twitter.com/PopescuCo):
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Germans are queuing at Degussa store to buy <a href="https://twitter.com/hashtag/gold?src=hash&amp;ref_src=twsrc%5Etfw">#gold</a> in Köln. From Jan. 1, 2020, the limit to buy gold anonymously drops from ?10,000 down to ?2,000. Only two years ago the limit was ?15,000. <a href="https://t.co/vhuZTBPA0Y">pic.twitter.com/vhuZTBPA0Y</a></p>&mdash; ???? ????????Dan Popescu ???????????? (@PopescuCo) <a href="https://twitter.com/PopescuCo/status/1209559269382787072?ref_src=twsrc%5Etfw">December 24, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Officially, decreasing the limit on ability of buying physicial anonymously is meant to [battle money laundering](https://news.bitcoin.com/germans-rush-to-buy-gold-as-draft-bill-threatens-to-restrict-purchases/). Risk averse Germans who anyway have a [tendency to hoard gold](https://www.zerohedge.com/news/2019-04-28/vast-gold-hoards-held-germanys-population) might want to have a deeper look into exchange traded Xetra Gold where prices showed some interesting jumps over the last days:
+
+![](/img/xetra_gold-2019-12-27-at-17.00.31_small.jpeg)
+
+Maybe it's time to go out and buy some gold ...
