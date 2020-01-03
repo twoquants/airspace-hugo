@@ -4,7 +4,7 @@ email: "#"
 social:
 - icon: ion-social-twitter-outline
   link: https://twitter.com/moritzseibert
-photo: "/images/teams/team-MS.png"
+image: "/images/teams/team-MS.png"
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.

@@ -4,7 +4,7 @@ email: "#"
 social:
 - icon: ion-social-twitter-outline
   link: https://twitter.com/moritzheiden
-photo: "/images/teams/team-MH.png"
+image: "/images/teams/team-MH.png"
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.
