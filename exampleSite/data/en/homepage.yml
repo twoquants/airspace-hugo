@@ -87,24 +87,16 @@ funfacts:
       name : "Combined Projects"
       count : "200"
 
-#  testimonial_slider:
-#    # testimonial item loop
-#    - name : "Raymond Roy"
-#      image : "images/clients/avater-1.jpg"
-#      designation : "CEO-Themefisher"
-#      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
-#                ideas we feel that our site has unique elements that make us stand out from the crowd."
-#
-#    # testimonial item loop
-#    - name : "Randi Renin"
-#      image : "images/clients/avater-1.jpg"
-#      designation : "CEO-Themefisher"
-#      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
-#                ideas we feel that our site has unique elements that make us stand out from the crowd."
-#
-#    # testimonial item loop
-#    - name : "Rose Rio"
-#      image : "images/clients/avater-3.jpg"
-#      designation : "CEO-Themefisher"
-#      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
-#                ideas we feel that our site has unique elements that make us stand out from the crowd."
+  testimonial_slider:
+    # testimonial item loop
+    - name : "Moritz Heiden"
+      image : "images/teams/team-MH.png"
+      designation : "Moritz #2"
+      content : "Can juggle with knives."
+
+    # testimonial item loop
+    - name : "Moritz Seibert"
+      image : "images/teams/team-MS.png"
+      designation : "Moritz #1"
+      content : "His first name is in fact not Moritz."
+
