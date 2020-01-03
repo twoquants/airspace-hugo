@@ -28,7 +28,7 @@ banner:
 
 
 ######################### Portfolio ###############################
-about:
+portfolio:
   enable : true
   image : "images/blog/whiskey_small.jpeg"
   title : "About Us"
