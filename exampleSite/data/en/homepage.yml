@@ -11,7 +11,7 @@ banner:
 
 ############################## About #################################
 about:
-  enable : true
+  enable : false
   image : "images/company/about.jpg"
   title : "We strive to be the best and <br> make awesome work."
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam
@@ -23,7 +23,7 @@ about:
           dolor sit amet, consectetur adipisicing elit. Provident, neque!"
 
   button:
-    enable : true
+    enable : false
     label : "Download Company Profile"
     link : "#"
 
@@ -48,28 +48,10 @@ portfolio:
     label: "Get To Know Us"
     link: "about"
 
-########################## featured service ############################
-featured_service:
+############################# Service ############################
+service:
   enable : true
-  service_item:
-    # featured service item loop
-    - name : "Interface Design"
-      icon : "ion-erlenmeyer-flask"
-      color : "primary"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
-
-    # featured service item loop
-    - name : "Product Branding"
-      icon : "ion-leaf"
-      color : "primary-dark"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
-
-    # featured service item loop
-    - name : "Game Development"
-      icon : "ion-lightbulb"
-      color : "primary-darker"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
-
+  # service content comes from "data/*/service.yml" file
 
 
 ############################ call to action ###########################
