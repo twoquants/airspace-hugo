@@ -28,6 +28,7 @@ featured_service:
     # featured service item loop
     - name : "Interface Design"
       icon : "ion-erlenmeyer-flask"
+      image: "images/blog/whiskey_small.jpeg"
       color : "primary"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
 
