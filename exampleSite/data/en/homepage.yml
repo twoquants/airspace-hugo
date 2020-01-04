@@ -35,12 +35,14 @@ featured_service:
     # featured service item loop
     - name : "Product Branding"
       icon : "ion-leaf"
+      image: "images/blog/whiskey_small.jpeg"
       color : "primary-dark"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
 
     # featured service item loop
     - name : "Game Development"
       icon : "ion-lightbulb"
+      image: "images/blog/whiskey_small.jpeg"
       color : "primary-darker"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
 
