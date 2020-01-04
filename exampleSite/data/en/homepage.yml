@@ -23,7 +23,7 @@ about:
 
 ########################## featured service ############################
 featured_service:
-  enable : true
+  enable : false
   service_item:
     # featured service item loop
     - name : "Interface Design"
