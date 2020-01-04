@@ -28,7 +28,7 @@ team:
       designation :
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
       social_Icon :
-        - icon : "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
+        - icon : "ion-coffee" # themify icon pack : https://themify.me/themify-icons
           link : "https://twitter.com/moritzheiden"
         - icon : "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
           link : "https://www.linkedin.com/in/moritz-heiden-45a90548/"
