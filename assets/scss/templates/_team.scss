@@ -1,8 +1,5 @@
-/*=================================================================
-  Our Team
-==================================================================*/
 .team-member {
-  background-color: #292F36;
+  background-color: transparent;
   margin-bottom: 10px;
 }
 
@@ -16,7 +13,7 @@
 
 .member-photo {
   overflow: hidden;
-  position: relative;
+  position: center;
 }
 
 @media (max-width: 768px) {
